@@ -1,0 +1,11 @@
+{
+  "name": "u-danu-the-agent-s-uh-oh-4c0911e4",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The one word an agent says when it has no idea what to do.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
